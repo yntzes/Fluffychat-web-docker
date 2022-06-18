@@ -1,1 +1,1 @@
-FROM: asibrahim/fluffychatweb
+FROM asibrahim/fluffychatweb
