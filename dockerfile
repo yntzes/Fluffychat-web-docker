@@ -1,1 +1,1 @@
-FROM asibrahim/fluffychatweb
+FROM pwfoo/fluffychat
