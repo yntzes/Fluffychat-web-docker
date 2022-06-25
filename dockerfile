@@ -1,1 +1,1 @@
-FROM pwfoo/fluffychat
+FROM asibrahim/fluffychatweb:2.0.0
